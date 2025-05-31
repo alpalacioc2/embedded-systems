@@ -3,7 +3,7 @@
 * Semester: Spring 2025
 * Laboratory Section: Section 1
 * Date: 04/05/2025
-* Lab Number: Lab 10 - Final Project
+* Lab Number: Lab 10 - Final Project(Autonomous line-following robot)
 * Description: This code implements a line-following robot using the MSP432, IR sensors,
 *              bumper interrupts, and PWM motor control with LED feedback.
 */
