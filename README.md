@@ -1,4 +1,4 @@
-# Lab 10: MSP432 Line-Following Robot Final Project
+MSP432 Line-Following Robot Final Project
 
 **Authors:** Alejandro Caro & Joshua Romeo  
 **Course:** EEL4742 - Embedded Systems  
