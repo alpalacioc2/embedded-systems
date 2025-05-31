@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project implements a fully autonomous line-following robot using the MSP432 microcontroller. The robot navigates a track by interpreting signals from infrared (IR) sensors, while also reacting to bumper switch inputs. It uses pulse-width modulation (PWM) to control motors and provides visual feedback through onboard LEDs and RGB LED indicators.
+This project implements a fully autonomous line-following robot using the MSP432 microcontroller and RSLK MAX. The robot navigates a track by interpreting signals from infrared (IR) sensors, while also reacting to bumper switch inputs. It uses pulse-width modulation (PWM) to control motors and provides visual feedback through onboard LEDs and RGB LED indicators.
 
 ---
 
@@ -27,6 +27,7 @@ This project implements a fully autonomous line-following robot using the MSP432
 ## 🧩 Hardware Components
 
 - MSP432P401R LaunchPad
+- TI RSLK MAX 
 - 2 DC motors (with H-Bridge motor driver)
 - IR reflective sensor array (8-element)
 - 6 bumper switches
